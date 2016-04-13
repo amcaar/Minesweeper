@@ -1,5 +1,5 @@
- Minesweeper
- ------------
+Minesweeper
+-----------
 The famous "Minesweeper" (buscaminas) game as an Android application.
 
 Developed under Eclipse IDE and Android 2.2 SDK (the most stable version when the app was developed).
