@@ -10,6 +10,7 @@ The objective of the game is to clear a minefield without detonating any mines:
 * The player can put a flag on the boxes that the player thinks that there are mines.
 * If you discover a square with a mine, the game is over.
 
+The application has a responsive design, its views adapt automatically to the screen of the device.
 
 .. image:: activitybomb.png
    :scale: 75 %
